@@ -1,0 +1,24 @@
+{
+  "name": "alurabank",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000l\u0000u\u0000r\u0000a\u0000-\u0000t\u0000y\u0000p\u0000e\u0000s\u0000c\u0000r\u0000i\u0000p\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc",
+    "start": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelobvieira/alura-typescript.git"
+  },
+  "author": "Marcelo Vieira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelobvieira/alura-typescript/issues"
+  },
+  "homepage": "https://github.com/marcelobvieira/alura-typescript#readme",
+  "devDependencies": {
+    "typescript": "^2.3.2"
+  }
+}
